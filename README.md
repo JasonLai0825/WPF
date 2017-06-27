@@ -1,6 +1,6 @@
 # WPFTest
 Test of WPF Web Api
 
-簡單測試用WPF做Web Api
+It's a simple example which is about WPF web api.
 
-資料庫使用Mysql，連線的Model部分可自行修改。
+In this project,I connect with MySql.And you can update model as you want.
